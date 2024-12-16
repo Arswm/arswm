@@ -25,7 +25,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" />
-  
+  <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="TypeScript" width="40" height="40" />
+  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" alt="TypeScript" width="40" height="40" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="TypeScript" width="40" height="40" />
 </p>
 
 <p align="center">
