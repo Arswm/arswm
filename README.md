@@ -24,7 +24,8 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
-
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATypescript_logo_2020.svg&psig=AOvVaw0cPqwH25c6zIqnuhe5MAyb&ust=1734439158828000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiW_sCnrIoDFQAAAAAdAAAAABAE)" alt="Tailwind CSS" width="40" height="40"/>
+  
 </p>
 
 <p align="center">
