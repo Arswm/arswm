@@ -19,6 +19,16 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
+<p align="center">
+  <a href="https://t.me/arswm59" target="blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-computer-icons-scalable-vector-graphics-portable-n-6519853%2F&psig=AOvVaw3NxRL6PYRHoyIgDjremlHP&ust=1737881599864000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCIws6_kIsDFQAAAAAdAAAAABAE" alt="telegram" height="30" width="40" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://instagram.com/arswm59" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
